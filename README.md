@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ItsAlex04
+- 👋 Hi, I’m Alex.
 - 👀 I’m interested in coding and website development.
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate with no one
+- 🌱 I’m currently learning coding.
+- 💞️ I’m looking to collaborate with no one for now.
 - 📫 How to reach me alexcdo0408@gmail.com
 
 <!---
